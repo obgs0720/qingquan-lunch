@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+qingquan.db
+.DS_Store
